@@ -11,7 +11,7 @@ Is Standard: Yes <br />
 Module: Select the relevant module (e.g., Selling). <br />
 Save the report. <br /><br />
 
-## Step 2: Go to your Editor (I am using Visual Studio Code) <br />
+## Step 2: Go to your Editor (I use Visual Studio Code) <br />
 Go to: <br />
 **Apps > erpnext > erpnext > selling > report > item_sales_report** <br /><br />
 You will find: <br />
