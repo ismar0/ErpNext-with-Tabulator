@@ -151,7 +151,7 @@ function getReportData() {
     let filters = getFilterValues();
 
     frappe.call({
-        method: "beacukai.beacukai.report.item_sales_report.item_sales_report.execute",
+        method: "erpnext.report.item_sales_report.item_sales_report.execute",
         args: { filters: filters },
         callback: function(response) {
             let data = response.message[1];
