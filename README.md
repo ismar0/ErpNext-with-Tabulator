@@ -1,12 +1,12 @@
 # ErpNext-with-Tabulator
 
-**Step 1: Create a New Report**
-Go to:
-Desk > Customization > Report > New Report
-Enter details:
-Report Name: Item Sales Report
-Ref DocType: Sales Invoice
-Report Type: Script Report
-Is Standard: Yes
-Module: Select the relevant module (e.g., Selling).
-Save the report.
+**Step 1: Create a New Report** <br />
+Go to: <br />
+Desk > Customization > Report > New Report <br />
+Enter details: <br />
+Report Name: Item Sales Report <br />
+Ref DocType: Sales Invoice <br />
+Report Type: Script Report <br />
+Is Standard: Yes <br />
+Module: Select the relevant module (e.g., Selling). <br />
+Save the report. <br />
